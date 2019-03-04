@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-29_1328",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 70,
+    "uniqCompNum": 74,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png"
   },
@@ -104,7 +104,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -122,7 +122,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
@@ -294,16 +294,16 @@
           },
           "title1": "",
           "subtitle1": "<b>Km 35, Topdac, Atok, Benguet</b>",
-          "caption1": "Plastic bottles are just thrown beside the main highway in Km. 35 Catholic Church.&nbsp;<br><br>Photo by: A. Marcelino",
+          "caption1": "Plastic bottles are just thrown beside the main highway in Km. 35 Catholic Church.&nbsp;<br><br>Photo by: AM",
           "title2": "<i>Between Prescilla and Angelica Store</i>",
           "subtitle2": "<b>Km 35, Topdac, Atok, Benguet</b>",
-          "caption2": "Unsegregated wastes thrown in the trash can of the store.<br><br>Photo by: A. Marcelino",
+          "caption2": "Unsegregated wastes thrown in the trash can of the store.<br><br>Photo by: AM",
           "title3": "&nbsp;Water Drainage",
-          "subtitle3": "<b>Km. 35 Topdac, Atok, Benguet</b><b><br></b><br><span style=\"font-style: normal;\">The drainage serve as the garbage can in Km. 35, wherein the people throw plastic bottles.</span><br><br><span style=\"font-style: normal;\">Photo by: R. Onse</span>",
+          "subtitle3": "<b>Km. 35 Topdac, Atok, Benguet</b><b><br></b><br><span style=\"font-style: normal;\">The drainage serve as the garbage can in Km. 35, wherein the people throw plastic bottles.</span><br><br><span style=\"font-style: normal;\">Photo by: R11</span>",
           "caption3": "",
           "title4": "Catingel Road",
           "subtitle4": "<b>Caliking, Atok, Benguet</b>",
-          "caption4": "Scattered wastes on the road beside a sayote plantation.<br><br>Photo by; J. Losnong",
+          "caption4": "Scattered wastes on the road beside a sayote plantation.<br><br>Photo by; JL",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -428,7 +428,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -446,7 +446,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
@@ -1208,7 +1208,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1226,7 +1226,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
@@ -1346,10 +1346,10 @@
             }
           },
           "title1": "1. Pots",
-          "subtitle1": "<br>Photo by:<span style=\"font-style: normal;\"> R. Onse</span><br>Image Credits: <span style=\"font-style: normal;\">Camp 30 National High School</span>",
+          "subtitle1": "<br>Photo by:<span style=\"font-style: normal;\"> R11</span><br>Image Credits: <span style=\"font-style: normal;\">Camp 30 National High School</span>",
           "caption1": "",
           "title2": "2. Lantern<br><br>",
-          "subtitle2": "Photo by: <b style=\"font-style: normal;\">A. Marcelino</b><br>Image Credits: <b>Camp 30 National High School</b>",
+          "subtitle2": "Photo by: <b style=\"font-style: normal;\">AM</b><br>Image Credits: <b>Camp 30 National High School</b>",
           "caption2": "",
           "title3": "3.",
           "subtitle3": "",
@@ -1469,7 +1469,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1487,7 +1487,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
@@ -2020,17 +2020,17 @@
               "active": true
             }
           },
-          "title1": "1. Origami<br><br><br><i style=\"font-weight: normal;\">Photo by: </i>A. Marcelino<br><br><span style=\"font-style: italic; font-weight: normal;\">Image Credits: </span>ICT Room, <br>Camp 30 National High School",
+          "title1": "1. Origami<br><br><br><i style=\"font-weight: normal;\">Photo by: </i>AM<br><br><span style=\"font-style: italic; font-weight: normal;\">Image Credits: </span>ICT Room, <br>Camp 30 National High School",
           "subtitle1": "",
           "caption1": "",
           "title2": "2. Vase",
-          "subtitle2": "<br>Photo by: <b style=\"font-style: normal;\">C. Gabol</b><br>Image Credits: <span style=\"font-style: normal;\"><b>Sewing Room, Camp 30 National High School</b></span>",
+          "subtitle2": "<br>Photo by: <b style=\"font-style: normal;\">CG</b><br>Image Credits: <span style=\"font-style: normal;\"><b>Sewing Room, Camp 30 National High School</b></span>",
           "caption2": "",
           "title3": "3. Flower Vase",
-          "subtitle3": "<br>Photo by: <span style=\"font-style: normal;\"><b>R. Onse</b></span><div>Image Credits: <span style=\"font-style: normal;\"><b>Sewing&nbsp;Room, Camp 30 National High School&nbsp;</b></span><br><br></div>",
+          "subtitle3": "<br>Photo by: <span style=\"font-style: normal;\"><b>R11</b></span><div>Image Credits: <span style=\"font-style: normal;\"><b>Sewing&nbsp;Room, Camp 30 National High School&nbsp;</b></span><br><br></div>",
           "caption3": "",
           "title4": "4. Hot Pot Pad",
-          "subtitle4": "<br>Photo by: <span style=\"font-style: normal;\"><b>J. Losnong</b></span><br>Image Credits:<span style=\"font-weight: bold; font-style: normal;\"> Sewing Room, Camp 30 National High School</span>",
+          "subtitle4": "<br>Photo by: <span style=\"font-style: normal;\"><b>JL</b></span><br>Image Credits:<span style=\"font-weight: bold; font-style: normal;\"> Sewing Room, Camp 30 National High School</span>",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -2072,7 +2072,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Web Page Builder Description",
         "title": "Feedback",
         "order": 1
       },
@@ -2142,7 +2142,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -2160,96 +2160,49 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1u"
+          "_anchor": "menu-0"
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "parallax": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": "10",
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
             "bgColorRadio": true,
             "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.2
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
           },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "",
-          "testimonial": [
-            {
-              "authorName": "",
-              "authorBio": "User Name",
-              "text": "",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User Name",
-              "text": "",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "",
-              "authorBio": "User Name",
-              "text": "",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            }
-          ],
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "testimonials2",
-          "_anchor": "testimonials2-1w"
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1z"
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#f3c649"
             }
           },
           "_params": {
             "showTitle": true,
-            "showCaption": true,
+            "showCaption": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -2265,13 +2218,13 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "\"Saving Mother Earth through Recycling is &nbsp;EVERYONES Concern\"",
-          "caption": "",
+          "title": "\"Saving Mother Earth through Recycling is  EVERYONES Concern\"",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-1x"
+          "_anchor": "content5-21"
         },
         {
           "_params": {
@@ -2298,13 +2251,14 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Camp 30 National High School<br>Camp 30, Caliking, Atok, Benguet",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Authors</b></span></font><br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Charles C. Gabol<br></b></span></font><b>Rowell M. Onse<br></b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Jane G. Losnong</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Angelica Marcelino<br></b></span></font><br><br>",
+          "text1": "<strong>Address</strong><br>Atok, Benguet",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Authors</b></span></font><br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>CG</b></span></font><br><b>R11</b><br><b>JL</b><br><b>AM&nbsp;<br></b><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_anchor": "contacts1-1q",
           "_styles": {
             "STRONG": {
               "font-size": "22px",
@@ -2320,8 +2274,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff"
             }
-          },
-          "_anchor": "contacts1-1v"
+          }
         }
       ]
     },
@@ -2400,7 +2353,7 @@
             "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Group 1 home.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"true\">Learn More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Facts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Plastic bottles</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">juice packs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Used papers, magazine, and newspaper</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Feedback</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -2418,7 +2371,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UPCYCLING</a>",
           "_tags": [
             "Theme"
           ],
@@ -2499,8 +2452,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Camp 30 National High School<br>Camp 30, Caliking, Atok, Benguet",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Authors</b></span></font><br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Charles C. Gabol<br></b></span></font><b>Rowell M. Onse<br></b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Jane G. Losnong</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Angelica Marcelino<br></b></span></font><br><br>",
+          "text1": "<strong>Address</strong><br>Atok, Benguet",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Authors</b></span></font><br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>CG</b></span></font><br><b>R11</b><br><b>JL</b><br><b>AM&nbsp;<br></b><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font><br><br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
